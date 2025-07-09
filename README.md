@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Bathistuta Jiwandono Aji</h1>
-<h3 align="center">Dedicated Frontend Developer and Data Science enthusiast from Indonesia. With a fervent passion for crafting immersive user experiences and diving deep into data-driven insights, I thrive on the intersection of creativity and analytical thinking.
- <br> Let's collaborate and innovate together!"</h3>
+<h3 align="center">Indonesia-based Frontend Developer and Data Science enthusiast. I'm passionate about creating immersive user experiences and extracting data-driven insights, bridging creativity with analytical problem-solving.
+ <br> Let's connect and build something great!</h3>
 
 <br>
 <ul>
-  <li>🌱 I’m currently learning Data Science, Machine Learning and AI</li>
   <li>📫 You can reach me at bathistutajiwandonoaji@gmail.com</li>
 </ul>
 

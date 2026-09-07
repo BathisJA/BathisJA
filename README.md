@@ -1,36 +1,76 @@
-<h1 align="center">Hi, I'm Bathistuta Jiwandono Aji</h1>
-<h3 align="center">Indonesia-based Frontend Developer and Data Science enthusiast. I'm passionate about creating immersive user experiences and extracting data-driven insights, bridging creativity with analytical problem-solving.
- <br> Let's connect and build something great!</h3>
+<h1 align="center">
+  <img src="assets/banner.svg" alt="Bathistuta Jiwandono Aji — Frontend Developer and Data Science Enthusiast" width="100%" />
+</h1>
 
-<br>
-<ul>
-  <li>📫 You can reach me at bathistutajiwandonoaji@gmail.com</li>
-</ul>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FFB454&center=true&vCenter=true&random=false&width=640&lines=%24+whoami+%E2%86%92+frontend+developer;%24+import+datascience+as+ds;%24+print(%22let%27s+build+something+great%22)" alt="Typing SVG" />
+</h3>
 
-<br>
-<h3 align="center">Let's Connect:</h3>
-<p align="center">
-  <a href="https://instagram.com/bathistuta"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://linkedin.com/in/bathistuta-jiwandono-aji"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://reddit.com/user/Heatzel"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit"></a>
-</p>
+<h3 align="center">
+  <a href="https://bathistuta.netlify.app/"><img src="https://img.shields.io/badge/portfolio-bathistuta.netlify.app-0d1420?style=flat-square&logo=googlechrome&logoColor=FFB454" alt="Portfolio"></a>
+  <a href="mailto:bathistutajiwandonoaji@gmail.com"><img src="https://img.shields.io/badge/email-bathistutajiwandonoaji-0d1420?style=flat-square&logo=gmail&logoColor=2DD4BF" alt="Email"></a>
+</h3>
 
+---
 
-<h3 align="center">Languages and Tools:</h3>
+## 📄 `about.yaml`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Github%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-</p>
+```yaml
+$ cat about.yaml
+role: frontend developer && data science enthusiast
+focus:
+  - building immersive user experiences
+  - extracting data-driven insights
+exploring: machine learning
+principle: creativity × analytical problem-solving
+status: open to collaborate
+```
 
+---
+
+## 🧰 `stack.config`
+
+<div align="center">
+
+**`frontend`**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**`data & analysis`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+
+**`systems & desktop`**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=E43717)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+
+**`backend & database`**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**`deploy & tools`**
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+  <samp>© 2026 · <a href="https://github.com/BathisJA">BathisJA</a> · built with ☕</samp>
+</div>
